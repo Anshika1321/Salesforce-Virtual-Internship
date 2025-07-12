@@ -1,1 +1,2 @@
 # Salesforce-Virtual-Internship
+This repository contains the complete project implementation for the Salesforce Virtual Internship, featuring the HandsMen Threads use case. The project includes hands-on solutions for data modeling, automation using flows and Apex, and Salesforce Lightning development. Structured by components and features, the repository offers organized source files, demo links, and supporting documentation for easy review and evaluation. Learn and explore real-world CRM development with Salesforce!
