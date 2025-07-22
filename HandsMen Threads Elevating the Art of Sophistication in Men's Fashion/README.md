@@ -1,4 +1,4 @@
-# 📘 README: HandsMen Threads CRM Implementation
+# 📘 HandsMen Threads CRM Implementation
 
 ## 📌 Project Title
 
