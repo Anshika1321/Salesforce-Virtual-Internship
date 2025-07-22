@@ -73,8 +73,6 @@ Real-time dashboards to view sales, customers, inventory, and performance data
 ## 📂 Repository Structure
 Source Code
 
-Flow Diagrams & Configuration Files
-
 Output Screenshots
 
 README & Project Documentation
